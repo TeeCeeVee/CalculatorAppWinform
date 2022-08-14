@@ -1,0 +1,17 @@
+C:\Users\theav\source\repos\CalculatorDemoApp\bin\Debug\net6.0-windows\CalculatorDemoApp.exe
+C:\Users\theav\source\repos\CalculatorDemoApp\bin\Debug\net6.0-windows\CalculatorDemoApp.deps.json
+C:\Users\theav\source\repos\CalculatorDemoApp\bin\Debug\net6.0-windows\CalculatorDemoApp.runtimeconfig.json
+C:\Users\theav\source\repos\CalculatorDemoApp\bin\Debug\net6.0-windows\CalculatorDemoApp.dll
+C:\Users\theav\source\repos\CalculatorDemoApp\bin\Debug\net6.0-windows\CalculatorDemoApp.pdb
+C:\Users\theav\source\repos\CalculatorDemoApp\obj\Debug\net6.0-windows\CalculatorDemoApp.csproj.AssemblyReference.cache
+C:\Users\theav\source\repos\CalculatorDemoApp\obj\Debug\net6.0-windows\CalculatorDemoApp.Form1.resources
+C:\Users\theav\source\repos\CalculatorDemoApp\obj\Debug\net6.0-windows\CalculatorDemoApp.csproj.GenerateResource.cache
+C:\Users\theav\source\repos\CalculatorDemoApp\obj\Debug\net6.0-windows\CalculatorDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theav\source\repos\CalculatorDemoApp\obj\Debug\net6.0-windows\CalculatorDemoApp.AssemblyInfoInputs.cache
+C:\Users\theav\source\repos\CalculatorDemoApp\obj\Debug\net6.0-windows\CalculatorDemoApp.AssemblyInfo.cs
+C:\Users\theav\source\repos\CalculatorDemoApp\obj\Debug\net6.0-windows\CalculatorDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\theav\source\repos\CalculatorDemoApp\obj\Debug\net6.0-windows\CalculatorDemoApp.dll
+C:\Users\theav\source\repos\CalculatorDemoApp\obj\Debug\net6.0-windows\refint\CalculatorDemoApp.dll
+C:\Users\theav\source\repos\CalculatorDemoApp\obj\Debug\net6.0-windows\CalculatorDemoApp.pdb
+C:\Users\theav\source\repos\CalculatorDemoApp\obj\Debug\net6.0-windows\CalculatorDemoApp.genruntimeconfig.cache
+C:\Users\theav\source\repos\CalculatorDemoApp\obj\Debug\net6.0-windows\ref\CalculatorDemoApp.dll
